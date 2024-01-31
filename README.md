@@ -1,5 +1,5 @@
 # coded-stack-class
-It's a class to act as stack with:
+It's a class to act as stack (using c++ & OOP concepts) with:
 
 1- fixed size.
 
